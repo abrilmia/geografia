@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="estilos2.css">
+</head>
+<body>
+    <h1> SUBTE SIX</h1>
+    <br>
+    <h2>Calbuco: Uno de los tres volcanes mas peligrosos que amenaza a la vida </h2>
+    <br>
+    <br>
+    <br>
+
+    <p>En abril de 2015 el volcan calbuco tuvo una erupción volcánica muy violenta. <br> Que afectó a numerosas localidades de la región de los lagos, pero que aún carece de los estudios necesarios que permitan mitigar el riesgo de desastre frente a un nuevo evento eruptivo. </p>
+    <p>El 22 de abril de 2015 la localidad rural de ensenada (que pertenece a la comuna de puerto varas), quedó literalmente cubierta de cenizas, producto de una de las erupciones explosivas más grandes de las últimas dos décadas En Chile. </p>
+    <p>El desplazamiento de éste afectó a 6680 personas en las cercanías del volcán. </p>
+    <P>El calbuco (caracterizado como extracto volcánico) es el tercero en peligrosidad después de los volcanes villarca y lonquimay  “sabemos por estudios científicos de erupciones pasadas que es un tipo de volcán de intensa actividad y cuya peligrosidad puede estar dada por la eyección de flujos piroclásticos. </P>
+    <h3>Consecuencias</h3>
+    <P>Las consecuencias de la erupción del volcán calbuco: la industria lamenta la pérdida de 30 millones de peces. Después de 43 años de inactividad coma el miércoles 22 de abril a las 6:11 h de la tarde, el volcán calbuco comenzó su fase de erupción</P>
+    <P>los problemas respiratorios aparecieron ya que emiten gases tóxicos, también tormentas eléctricas las cuáles provocan que el estilo de vida de esas personas sea difícil. </P>
+    <h4>los actores involucrados y afectados: </h4>
+    <ul>Rio patronue de camanchaca </ul>
+    <ul>Cermaon </ul>
+    <ul>Marine Hervest</ul>
+    <img src="imagen.jpg">
+
+
+</body>
+</html>
